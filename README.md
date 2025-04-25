@@ -5,6 +5,7 @@ Este projeto implementa, em linguagem C, um sistema para cálculo de vizinhança
 ## Formato do Arquivo de Entrada
 
 T         <- Comprimento total da estrada (int)
+
 N         <- Número de cidades (int)
 Xi Nome   <- Distância da cidade i da fronteira oeste (int) e nome da cidade (string)
 
