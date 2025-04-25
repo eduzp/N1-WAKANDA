@@ -13,8 +13,11 @@ Xi Nome   <- Distância da cidade i da fronteira oeste (int) e nome da cidade (s
 ## Funcionalidades
 
 O projeto implementa três funções principais, definidas em cidades.h:
+
 Estrada *getEstrada(const char *nomeArquivo);               // Inicializa os dados da estrada
+
 double calcularMenorVizinhanca(const char *nomeArquivo);    // Retorna a menor vizinhança
+
 char *cidadeMenorVizinhanca(const char *nomeArquivo);       // Retorna o nome da cidade com menor vizinhança
 
 ## Compilação
