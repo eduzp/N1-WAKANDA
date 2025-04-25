@@ -29,14 +29,20 @@ gcc main.c cidades.c -o cidades.exe
 ## Estrutura do Projeto
 
 ├── cidades.h         # Arquivo de cabeçalho com os protótipos
+
 ├── cidades.c         # Implementação das funções
+
 ├── main.c            # Arquivo de teste fornecido pela UCB
+
 ├── Teste01.txt       # Arquivo de entrada de exemplo
+
 ├── Teste02.txt       # Outro exemplo com mais cidades
+
 └── Resultado.txt     # Resultado gerado pelo main.c após execução
 
 ## Créditos
 
 Este projeto foi desenvolvido como parte da disciplina de Estruturas de Dados na Universidade Católica de Brasília (UCB), sob orientação do Professor Marcelo Eustáquio.
+
 📌 Autor: Luiz Eduardo dos Anjos De Jesus
 💻 GitHub: @eduzp
