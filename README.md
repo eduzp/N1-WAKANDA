@@ -23,6 +23,7 @@ char *cidadeMenorVizinhanca(const char *nomeArquivo);       // Retorna o nome da
 ## Compilação
 
 gcc main.c cidades.c -o cidades.exe
+
 ✅ Compatível com GCC padrão, DevC++, Code::Blocks e VSCode com extensão C/C++.
 
 ## Estrutura do Projeto
