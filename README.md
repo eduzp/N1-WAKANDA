@@ -32,13 +32,13 @@ gcc main.c cidades.c -o cidades.exe
 
 ├── cidades.c         # Implementação das funções
 
-├── main.c            # Arquivo de teste fornecido pela UCB
+├── main.c            # Arquivo base fornecido pelo Professor.
 
-├── Teste01.txt       # Arquivo de entrada de exemplo
+├── Teste01.txt       # Arquivo de Teste N°1
 
-├── Teste02.txt       # Outro exemplo com mais cidades
+├── Teste02.txt       # Arquivo de Teste N°2
 
-└── Resultado.txt     # Resultado gerado pelo main.c após execução
+└── Resultado.txt     # Resultado final
 
 ## Créditos
 
