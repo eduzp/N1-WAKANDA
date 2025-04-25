@@ -45,4 +45,5 @@ gcc main.c cidades.c -o cidades.exe
 Este projeto foi desenvolvido como parte da disciplina de Estruturas de Dados na Universidade Católica de Brasília (UCB), sob orientação do Professor Marcelo Eustáquio.
 
 📌 Autor: Luiz Eduardo dos Anjos De Jesus
+
 💻 GitHub: @eduzp
